@@ -2,6 +2,8 @@
 
 ##### Authors: Schulze, A., Gomez-Marin, A., Rajendran, V. G., Lott, G., Musy, M., Ahammad, P., Deogade, A., Sharpe, J., Riedl, J., Jarriault, D., Trautman, E. T., Werner, C., Venkadesan, M., Druckmann, S., Jayaraman, V. and M. Louis
 
+Link to the publication: https://goo.gl/9tReux
+
 This folder contains the scripts for software and design and layout of the hardware associated with the Schulze et al. eLife 2015 manuscript. The repository is organised into five modules corresponding to the specific tools described in the manuscript. Below is a brief description of each module:
 
 1. **Electrophysiolgy:** Contains scripts associated with the electrophysiology protocols used in the paper.
