@@ -1,4 +1,4 @@
-## Dynamical feature extraction at the sensory periphery guides chemotaxis (manuscript submitted to eLIFE)
+## Dynamical feature extraction at the sensory periphery guides chemotaxis
 
 ##### Authors: Schulze, A., Gomez-Marin, A., Rajendran, V. G., Lott, G., Musy, M., Ahammad, P., Deogade, A., Sharpe, J., Riedl, J., Jarriault, D., Trautman, E. T., Werner, C., Venkadesan, M., Druckmann, S., Jayaraman, V. and M. Louis
 
